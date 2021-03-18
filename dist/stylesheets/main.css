@@ -1,5 +1,12 @@
-body {
-  color: lightblue;
-}
+.footer {
+  background-color: #ddd; }
 
+body {
+  color: lightblue; }
+
+.content .title, .content .title-lg {
+  font-size: 24px; }
+
+.content .title-lg {
+  font-size: 32px; }
 
